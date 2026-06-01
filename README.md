@@ -10,16 +10,19 @@
 
 ## 💻 Tech Stack
 
-**Languages:** Python · SQL · JavaScript · TypeScript
+**Languages:** Python · SQL · JavaScript · TypeScript · Java
 
 **Frontend:** React · Next.js · Tailwind CSS
 
-**Tools & Cloud:** Git · AWS
+**Backend & Database:** Django · Spring Boot · MySQL
+
+**Tools & Cloud:** Git · AWS · Google Cloud Platform
 
 ## 🚀 Projects
 
+- **[SQL Study Room](https://github.com/ruitingm/sql-study-room-web-app)** — Web app for practicing SQL problems with AI-powered hints and natural-language-to-SQL chat. Built with React/Redux, Django REST Framework, and MySQL on Google Cloud Platform. *(Team project — contributor)*
+- **[ProfileGlow](https://github.com/DatingOptimizer)** — AI-powered dating profile optimizer (bio rewriting, photo ranking, conversation starters). Full-stack team project: a TypeScript/Next.js + Tailwind frontend, a Java/Spring Boot REST backend, and LLM integration for AI-generated suggestions. *Led the frontend, including a custom word-level diff component to highlight bio changes.*
 - **[apartment-optimizer](https://github.com/Xujing-Hui/apartment-optimizer)** — Apartment optimization using Dijkstra's and Bellman-Ford shortest-path algorithms on the SF/Bay Area transit network. *(Python)*
-- **ProfileGlow** — AI-powered dating profile optimizer; built the full frontend with Next.js, TypeScript, and Tailwind CSS.
 
 ## 🌟 Interests
 
