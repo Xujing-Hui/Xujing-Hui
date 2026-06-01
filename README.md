@@ -1,3 +1,5 @@
+<img width="414" height="413" alt="image" src="https://github.com/user-attachments/assets/0aa9d6ea-0b4b-4ca9-9636-651d726d3d9b" />
+
 ## 👩‍💻 About Me
 
 💡 CS Master's student at Northeastern University (Silicon Valley campus), pursuing Software Development Engineer roles.
